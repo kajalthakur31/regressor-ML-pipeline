@@ -13,3 +13,5 @@
 #### Step 5: Install dependencies using: pip install -r requirements.txt 
 
 #### Step 6: Finally run the main model.py file using: python model.py
+
+#### Step 7: To track ML flow experiments on UI, open a new terminal within the same directory and run: mlflow ui
