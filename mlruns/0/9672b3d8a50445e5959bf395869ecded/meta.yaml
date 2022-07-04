@@ -1,0 +1,15 @@
+artifact_uri: file:///home/msi/working/personal/Seqana_mlops_engineering_challenge/src/mlruns/0/9672b3d8a50445e5959bf395869ecded/artifacts
+end_time: 1656969251379
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 9672b3d8a50445e5959bf395869ecded
+run_uuid: 9672b3d8a50445e5959bf395869ecded
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1656969248779
+status: 3
+tags: []
+user_id: msi
